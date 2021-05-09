@@ -1,6 +1,6 @@
-# adriansangil.github.io
+# sidnepal2048.github.io
 
-A web page hosted on github showing a summary regarding my skills and experience. [See here](http://adriansangil.github.io/)
+A web page hosted on github showing a summary regarding my skills and experience. [See here](http://sidnepal2048.github.io/)
 
 ## Built With
 
