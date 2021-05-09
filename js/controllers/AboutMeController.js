@@ -1,7 +1,7 @@
 app.controller('AboutMeController', ['$scope', function($scope) { 
   $scope.greetings1 = "Hello,";
   $scope.greetings2 = "a bit about me:";
-  $scope.summary = "I am a software engineer with 8 years of experience in web and software development. I am highly familiar with the technologies and wide variety of tools used for web development. Regarding my education, I possess a Master Degree in Computer Information System."
+  $scope.summary = "Energetic software developer, 8 years of experience who can bring diverse skillset and creative drive to software application development. Proficient at designing, testing and feature development and implementation using cutting edge technologies. Creative thinker and enthusiastic team player dedicated to efficiently resolve project issues. Highly adaptable to quickly changing technical environments with a very strong organization and analytical skills. In my last job, I’ve worked as a team player, leading and actively communicating with the client to deliver the tailor-made quality projects on time."
 
   let myInfo = [];
 
