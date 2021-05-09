@@ -1,5 +1,5 @@
 app.controller('MainController', ['$scope', function($scope) { 
-  $scope.myName = 'Adrian Sangil';
+  $scope.myName = 'Siddhartha Nepal';
 
   let menuItems = [
   {
