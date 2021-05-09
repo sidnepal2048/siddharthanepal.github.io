@@ -188,8 +188,11 @@
         		<img src="images/university-of-central-missouri.jpg" alt="..." width="150px">
        		</div>
 	        <div>
-	        	<h3><strong>{{education.school}}</strong></h3>
-	        	<span ng-repeat="d in education">{{d.degree}}</span>
+				<h3><strong>{{education.school}}</strong></h3>
+				<div ng-repeat="d in education">
+					<span>{{d.degree}}</span>
+				</div>
+	        	
 	        	<p><br></p>
 	        	<p>{{education.activities}}</p>
 	        </div>
