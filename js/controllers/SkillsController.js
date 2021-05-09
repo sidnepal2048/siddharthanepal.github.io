@@ -3,9 +3,9 @@ app.controller('SkillsController', ['$scope', function($scope) {
 
   let mySkills = {
     web:" CSS, HTML, Javascript, jQuery, SQL, Bootstrap 4, REST/SOAP Architecture, Git",
-    lang: " Java, J2EE, PHP, familiar with Python",
+    lang: " Java, J2EE, familiar with Python",
     mobile: " familiar with Android",
-    others: " Spring MVC, Spring Boot, Maven, SonarQube, Redis Cache, Jmeter, familiar with NodeJS, Angular, JUnit, Mockito, UNIX scripting"
+    others: " Spring MVC, Spring Boot, Oracle, Maven, SonarQube, Redis Cache, Jmeter, NodeJS, Angular, JUnit, Mockito, UNIX scripting"
   }
   $scope.skills = mySkills;
 
