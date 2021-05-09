@@ -183,13 +183,17 @@
                 </div>
             </div>
             <div class="custom-padding">
-			</div>
-			
-			<div ng-repeat="p in education">
-            	<h3><strong>{{p.school}}</strong></h3>
-				<span>{{p.degree}}</span>
-            	<div class="custom-padding">
             </div>
+            <div class="row">
+        		<img src="images/university-of-central-missouri.jpg" alt="..." width="150px">
+       		</div>
+	        <div>
+	        	<h3><strong>{{education.school}}</strong></h3>
+				<span>Master of Science in Big Data Analytics</span>
+				<span>Master of Science in Computer Information System</span>
+	        	<p><br></p>
+	        	<p>{{education.activities}}</p>
+	        </div>
         </div>
        		
     </section>
