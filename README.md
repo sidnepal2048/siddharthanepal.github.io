@@ -10,7 +10,7 @@ A web page hosted on github showing a summary regarding my skills and experience
 
 ## Authors
 
-* **Siddhartha Nepal** - *Initial work* - [Github](https://https://github.com/sidnepal2048)
+* **Siddhartha Nepal** - *Initial work* - [Github](https://github.com/sidnepal2048)
 
 ## Acknowledgments
 
