@@ -78,8 +78,7 @@ app.controller('ExperienceController', ['$scope', function($scope) {
 	"Implemented various design patterns in the project such as Business Delegate, Data Transfer Object, Data Access Object, Service Locator, Factory and Singleton.",
 	"Involved in IDM migration and hands-on creating roles like user provisioni.ng and maintenance, configuring different portal applications in IDM and roles creation for different teams like testing/development and production support teams using IDM OAM and OIM.",
 	"Involved in PL/SQL query writing functions, tuning and package implementations.",
-	"Integrated WAS server with IBM MQ and created Queue connection factories and JMS queues.",
-  	],
+	"Integrated WAS server with IBM MQ and created Queue connection factories and JMS queues."],
   	tech:"Java, Spring boot, Cassandra, Git, JSP, Angular, JSF, HTML, CSS, Javascript, jQuery, Bootstrap, Slack"
   });
 
@@ -103,8 +102,7 @@ app.controller('ExperienceController', ['$scope', function($scope) {
 	"Involved in the Development of Spring Framework Controllers. Developed Controller for request, response paradigm by Spring Controllers using Spring-MVC.",
 	"Developed a tool to retrieve and send data to third party service provider. This feature was implemented using REST.",
 	"Analyze, design, development of software systems to form a basis for the solution of information processing problems.",
-	"Responsible for analysis of current programs including performance, diagnosis and troubleshooting of programs presenting challenges and design solutions to overcome such."
-  	],
+	"Responsible for analysis of current programs including performance, diagnosis and troubleshooting of programs presenting challenges and design solutions to overcome such."],
   	tech:"Java, Spring boot, Cassandra, Git, JSP, Angular, JSF, HTML, CSS, Javascript, jQuery, Bootstrap, Slack"
   });
 
@@ -134,9 +132,7 @@ app.controller('ExperienceController', ['$scope', function($scope) {
 	"Built Prototype and Technical Specification based on the Functional Requirements.",
 	"Worked in close interaction with Developers, Business Analyst, and Team Lead.",
 	"Successfully tested the application for Units, Functional Verification and System Integration.",
-	"Analyze, design, development of software systems to form a basis for the solution of information processing problems."
-	  
-  	],
+	"Analyze, design, development of software systems to form a basis for the solution of information processing problems."],
   	tech:"Java, Strut, EJB, Oracle, Git, JSP HTML, CSS, Javascript, AJAX, jQuery, Bootstrap, Slack"
   });
 
