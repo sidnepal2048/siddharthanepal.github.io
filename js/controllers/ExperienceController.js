@@ -111,35 +111,30 @@ app.controller('ExperienceController', ['$scope', function($scope) {
   });
 
   myExperience.push({
-	jobTitle:"Software Engineer",
-  	company:"Shikhar Insurance Co. Ltd.",
-  	jobLength:"Jun 2012 - Feb 2014", 
+	jobTitle:"Java/J2EE Developer",
+  	company:"NepFlights",
+  	jobLength:"Mar 2014 - Jul 2016", 
   	location:"Kathmandu, Nepal",
   	responsibilities:[
-  	"Written low-level design for features Document Creation, Container Creation and Document Relocation.",
-	"Involved in high level and detailed design, coding, testing and implementation for Project Management Tool, PMT.",
-	"Involved in Database Design & Analysis.",
-	"Involved in implementation of ORM layer using Hibernate.",
-	"Developed Struts Action classes and Servlet Controller configuration.",
-	"Built Prototype and Technical Specification based on the Functional Requirements.",
-	"Extensively worked on the Calendar functionality in the PMT tool.",
-	"Implemented the calendar functionality and incorporated the Predefined events and Ad hoc events in the PMT tool calendar.",
-	"Designed and developed the controller and view components using JSP’s and Servlets for PMT Application. Defined JSP View flow in struts-config.xml.",
-	"Developed build scripts using ANT.",
-	"Used J2EE patterns and EJB for development of modules and Reporting purpose.",
-	"Developed Rich User Interface using JSP for PMT.",
-	"Validations are done using JavaScript and Ajax.",
-	"Extensively worked on creation and configuration of Reusable Components using Core Java.",
-	"Worked on Oracle data base for writing the queries and tuning the queries.",
-	"Extensively used hibernate and jdbc for retrieving and updating the data between the database and application.",
-	"Written the PL/SQL blocks like Procedures, functions and packages for validation and retrieving multiple record sets from the database based on business logic.",
-	"Involved in implementation of ORM layer using Hibernate.",
-	"Built Prototype and Technical Specification based on the Functional Requirements.",
-	"Worked in close interaction with Developers, Business Analyst, and Team Lead.",
-	"Successfully tested the application for Units, Functional Verification and System Integration.",
-	"Analyze, design, development of software systems to form a basis for the solution of information processing problems."],
-  	tech:"Java, Strut, EJB, Oracle, Git, JSP HTML, CSS, Javascript, AJAX, jQuery, Bootstrap"
+  	"Developed predictive model using Apache Mahout based on Hadoop for generating clusters of real-time Big data (RSS feeds, Google news). Used supervised machine learning techniques for categorizing the new data.",
+	"Cross Platform Application Manager (Android, JUnit Testing, Samsung Accessory Protocol).",
+	"Developed and tested module for android application to support cross-platform communication for installing and uninstalling of Android apps from Android mobile phone to Samsung’s Galaxy Gear smartwatch running on Tizen OS.",
+	"Designed and developed Stop Pay, Check Reorder component.",
+	"Used Maven for building, writing test cases and documenting the application.",
+	"Exchanged data using Restful Web services (JAX- RS) using Jersey implementation.",
+	"Handled assignments in developing UI pages using JSP, Html, DHTML, CSS and JavaScript.",
+	"Responsible to build the presentation layer by using Struts MVC framework.",
+	"Developed Session Beans to process requests from the user and used entity beans to retrieve and update customer information.",
+	"Involved in using Log4J to create log files to debug as well as trace.",
+	"Used CVS for version control.",
+	"Conduct system analysis and development, with limited support from professional staff, to keep our systems current with changing technologies.",
+	"Involved in the Development of Spring Framework Controllers. Developed Controller for request, response paradigm by Spring Controllers using Spring-MVC.",
+	"Developed a tool to retrieve and send data to third party service provider. This feature was implemented using REST.",
+	"Analyze, design, development of software systems to form a basis for the solution of information processing problems.",
+	"Responsible for analysis of current programs including performance, diagnosis and troubleshooting of programs presenting challenges and design solutions to overcome such."],
+  	tech:"Java, Spring boot, Cassandra, Git, JSP, Angular, JSF, HTML, CSS, Javascript, jQuery, Bootstrap"
   });
+  
 
   $scope.experience = myExperience;
 }]);
