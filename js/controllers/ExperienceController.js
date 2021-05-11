@@ -3,7 +3,8 @@ app.controller('ExperienceController', ['$scope', function($scope) {
 
   let myExperience = [];
 
-  myExperience.push({jobTitle:"Full Stack Developer",
+  myExperience.push({
+	jobTitle:"Full Stack Developer",
   	company:"Liberty Mutual",
   	jobLength:"Dec 2020 - Present", 
   	location:"Indianapolis, Indiana",
@@ -27,7 +28,8 @@ app.controller('ExperienceController', ['$scope', function($scope) {
   	tech: "Java, Spring boot, Redis Cache, Guidewire Claim Center, Oracle, MySql, AWS"
   });
 
-  myExperience.push({jobTitle:"Full Stack Developer",
+  myExperience.push({
+	jobTitle:"Full Stack Developer",
   	company:"USAA",
   	jobLength:"Feb 2018 - Dec 2019", 
   	location:"Dallas, Texas",
@@ -58,7 +60,8 @@ app.controller('ExperienceController', ['$scope', function($scope) {
   	tech: "Java, Spring boot, Oracle, MySql, AWS"
   });
 
-  myExperience.push({jobTitle:"Research Developer",
+  myExperience.push({
+	jobTitle:"Research Developer",
   	company:"United Airlines",
   	jobLength:"Nov 2016 - Jan 2018", 
   	location:"Chicago, Illinoi",
@@ -82,7 +85,8 @@ app.controller('ExperienceController', ['$scope', function($scope) {
   	tech:"Java, Spring boot, Cassandra, Git, JSP, Angular, JSF, HTML, CSS, Javascript, jQuery, Bootstrap, Slack"
   });
 
-  myExperience.push({jobTitle:"Java/J2EE Developer",
+  myExperience.push({
+	jobTitle:"Java/J2EE Developer",
   	company:"NepFlights",
   	jobLength:"Mar 2014 - Jul 2016", 
   	location:"Kathmandu, Nepal",
@@ -103,10 +107,11 @@ app.controller('ExperienceController', ['$scope', function($scope) {
 	"Developed a tool to retrieve and send data to third party service provider. This feature was implemented using REST.",
 	"Analyze, design, development of software systems to form a basis for the solution of information processing problems.",
 	"Responsible for analysis of current programs including performance, diagnosis and troubleshooting of programs presenting challenges and design solutions to overcome such."],
-  	tech:"Java, Spring boot, Cassandra, Git, JSP, Angular, JSF, HTML, CSS, Javascript, jQuery, Bootstrap, Slack"
+  	tech:"Java, Spring boot, Cassandra, Git, JSP, Angular, JSF, HTML, CSS, Javascript, jQuery, Bootstrap"
   });
 
-  myExperience.push({jobTitle:"Software Engineer",
+  myExperience.push({
+	jobTitle:"Software Engineer",
   	company:"Shikhar Insurance Co. Ltd.",
   	jobLength:"Jun 2012 - Feb 2014", 
   	location:"Kathmandu, Nepal",
@@ -133,7 +138,7 @@ app.controller('ExperienceController', ['$scope', function($scope) {
 	"Worked in close interaction with Developers, Business Analyst, and Team Lead.",
 	"Successfully tested the application for Units, Functional Verification and System Integration.",
 	"Analyze, design, development of software systems to form a basis for the solution of information processing problems."],
-  	tech:"Java, Strut, EJB, Oracle, Git, JSP HTML, CSS, Javascript, AJAX, jQuery, Bootstrap, Slack"
+  	tech:"Java, Strut, EJB, Oracle, Git, JSP HTML, CSS, Javascript, AJAX, jQuery, Bootstrap"
   });
 
   $scope.experience = myExperience;
