@@ -110,36 +110,5 @@ app.controller('ExperienceController', ['$scope', function($scope) {
   	tech:"Java, Spring boot, Cassandra, Git, JSP, Angular, JSF, HTML, CSS, Javascript, jQuery, Bootstrap"
   });
 
-  myExperience.push({
-	jobTitle:"Software Engineer",
-  	company:"Shikhar Insurance Co. Ltd.",
-  	jobLength:"Jun 2012 - Feb 2014", 
-  	location:"Kathmandu, Nepal",
-  	responsibilities:[
-  	"Written low-level design for features Document Creation, Container Creation and Document Relocation.",
-	"Involved in high level and detailed design, coding, testing and implementation for Project Management Tool, PMT.",
-	"Involved in Database Design & Analysis.",
-	"Involved in implementation of ORM layer using Hibernate.",
-	"Developed Struts Action classes and Servlet Controller configuration.",
-	"Built Prototype and Technical Specification based on the Functional Requirements.",
-	"Extensively worked on the Calendar functionality in the PMT tool.",
-	"Implemented the calendar functionality and incorporated the Predefined events and Ad hoc events in the PMT tool calendar.",
-	"Designed and developed the controller and view components using JSP’s and Servlets for PMT Application. Defined JSP View flow in struts-config.xml.",
-	"Developed build scripts using ANT.",
-	"Used J2EE patterns and EJB for development of modules and Reporting purpose.",
-	"Developed Rich User Interface using JSP for PMT.",
-	"Validations are done using JavaScript and Ajax.",
-	"Extensively worked on creation and configuration of Reusable Components using Core Java.",
-	"Worked on Oracle data base for writing the queries and tuning the queries.",
-	"Extensively used hibernate and jdbc for retrieving and updating the data between the database and application.",
-	"Written the PL/SQL blocks like Procedures, functions and packages for validation and retrieving multiple record sets from the database based on business logic.",
-	"Involved in implementation of ORM layer using Hibernate.",
-	"Built Prototype and Technical Specification based on the Functional Requirements.",
-	"Worked in close interaction with Developers, Business Analyst, and Team Lead.",
-	"Successfully tested the application for Units, Functional Verification and System Integration.",
-	"Analyze, design, development of software systems to form a basis for the solution of information processing problems."],
-  	tech:"Java, Strut, EJB, Oracle, Git, JSP HTML, CSS, Javascript, AJAX, jQuery, Bootstrap"
-  });
-
   $scope.experience = myExperience;
 }]);
