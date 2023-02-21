@@ -27,8 +27,8 @@ myExperience.push({
   myExperience.push({
 	jobTitle:"Full Stack Developer",
   	company:"Liberty Mutual",
-  	jobLength:"Dec 2020 - Feb 2022", 
-  	location:"Indianapolis, Indiana",
+  	jobLength:"Aug 2018 - Feb 2022", 
+  	location:"Indianapolis, IN",
   	responsibilities:[
   	"Involved in requirement gathering, data modeling, analysis, architecture design & development.",
   	"Worked in agile framework as an individual contributor Responsibilities include - Interaction with Business team in story grooming, reviewing story/acceptance criteria.",
